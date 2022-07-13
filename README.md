@@ -1,4 +1,4 @@
-## Hi there, I'm Andrey Smirnov!
+## Hi there, I'm Andrey!
 
 ### Contact with me
 - [untitled_dream@inbox.ru](mailto:untitled_dream@inbox.ru)
