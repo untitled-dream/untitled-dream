@@ -16,6 +16,6 @@
 - [telegram](https://t.me/untitled_dream)
 
 <div align='center'>
-  <img height="125" src="https://github-readme-stats.vercel.app/api?username=untitled-dream&hide=contribs,issues&show_icons=false&theme=github_dark&border_color=22272e&bg_color=22272e"/>
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=untitled-dream&hide=contribs,issues&show_icons=false&theme=github_dark&border_color=22272e&bg_color=22272e&custom_title=GitHub Stats"/>
   <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untitled-dream&layout=compact&theme=github_dark&border_color=22272e&bg_color=22272e"/>
 </div>
