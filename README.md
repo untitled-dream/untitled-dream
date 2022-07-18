@@ -1,7 +1,7 @@
 <h2 align='center'> Hi there, I'm Andrey! </h2>
 <h3 align='center'> Yandex.Practicum student </h3>
 
-### Going to study
+### I'm going to learn
 - SASS
 - TypeScript
 - Next.js
