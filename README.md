@@ -14,3 +14,8 @@
 ### Contact with me
 - [untitled_dream@inbox.ru](mailto:untitled_dream@inbox.ru)
 - [telegram](https://t.me/untitled_dream)
+
+<div align='center'>
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=untitled-dream&hide=contribs,issues&show_icons=false&theme=github_dark&border_color=0d1117"/>
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untitled-dream&layout=compact&theme=github_dark&border_color=0d1117"/>
+</div>
