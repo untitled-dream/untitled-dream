@@ -7,7 +7,7 @@
 - Webpack
 
 ### I'm planning on learning:
-- SASS
+- SASS / SCSS
 - TypeScript
 - Next.js
 
