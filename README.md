@@ -1,12 +1,12 @@
-<h2 align='center'> Hi there, I'm Andrey! </h2>
-<h3 align='center'> Yandex.Practicum student </h3>
+<h3 align='center'> Hi there, I'm Andrey! </h3>
+<p align='center' margin-top='0'> Yandex.Practicum student </p>
 
-### Learned:
+### Learned
 - Semantic & adaptive layout
 - JavaScript (OOP)
 - Webpack
 
-### I'm planning on learning:
+### I'm planning on learning
 - SASS / SCSS
 - TypeScript
 - Next.js
