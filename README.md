@@ -1,5 +1,5 @@
 <h3 align='center'> Hi there, I'm Andrey! </h3>
-<p align='center' margin-top='0'> Frontend Developer | [SimpleOne](https://simpleone.ru/en/#) Administrator </p>
+<p align='center' margin-top='0'> Frontend Developer | <a href="https://simpleone.ru/en/#" target="_blank">SimpleOne</a> Administrator </p>
 
 ### Learned
 - Semantic & adaptive layout
