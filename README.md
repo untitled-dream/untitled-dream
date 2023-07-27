@@ -2,8 +2,9 @@
 <p align='center' margin-top='0'> Frontend Developer | <a href="https://simpleone.ru/en">SimpleOne</a> Administrator </p>
 
 ### Learned
-- Semantic & adaptive layout
+- Semantic & Adaptive Layout
 - JavaScript (OOP)
+- React
 - Webpack
 
 ### I'm planning on learning
@@ -12,11 +13,4 @@
 - Next.js
 
 ### Contact with me
-- [untitled_dream@inbox.ru](mailto:untitled_dream@inbox.ru)
 - [telegram](https://t.me/untitled_dream)
-<!--
-<div align='center'>
-  <img height="125" src="https://github-readme-stats.vercel.app/api?username=untitled-dream&hide=contribs,issues&show_icons=false&theme=github_dark&border_color=22272e&bg_color=22272e&custom_title=GitHub Stats"/>
-  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=untitled-dream&layout=compact&theme=github_dark&border_color=22272e&bg_color=22272e"/>
-</div>
--->
